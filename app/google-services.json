@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599920816754",
+    "project_id": "highlands-coffee-growers-app",
+    "storage_bucket": "highlands-coffee-growers-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599920816754:android:5067cd42537d43235408eb",
+        "android_client_info": {
+          "package_name": "com.example.highlandscoffeegrowersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfkpBD_d6NEuunlYI3KoTgIeqM329CjSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

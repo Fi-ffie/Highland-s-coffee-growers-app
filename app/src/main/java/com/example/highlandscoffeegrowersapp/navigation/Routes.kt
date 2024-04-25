@@ -1,0 +1,18 @@
+package com.example.highlandscoffeegrowersapp.navigation
+
+const val ROUTE_SPLASH = "splash"
+const val ROUTE_HOME = "home"
+const val ROUTE_REGISTER= "register"
+const val ROUTE_LOGIN = "login"
+const val ROUTE_INDEX = "index"
+const val ROUTE_GROWER_INFO = "grower_info"
+const val ROUTE_PURCHASE_INFO = "purchase_info_screen"
+const val ROUTE_ENTER_GROWER_DETAILS = "enter_grower_details"
+const val ROUTE_VIEW_GROWER_DETAILS = "view_grower_details"
+const val ROUTE_EDIT_GROWER_DETAILS = "edit_grower_details"
+const val ROUTE_UPDATE_GROWER_DETAILS = "update_grower_details"
+const val ROUTE_PURCHASE_FERTILISER = "purchase_fertiliser"
+const val ROUTE_VIEW_FERTILISER_PURCHASE = "view_fertiliser_purchase"
+const val ROUTE_EDIT_PURCHASE_DETAILS = "edit_purchase_details"
+const val ROUTE_UPDATE_FERTILISER_PURCHASE = "update_purchase_details"
+const val ROUTE_CONTACT_US = "contact_us"
